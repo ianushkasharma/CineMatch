@@ -19,9 +19,10 @@ This web app recommends movies based on your favorite titles using content-based
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshots
 
-_Add a screenshot here by uploading `screenshot.png` to your repo_
+<img width="600" height="865" alt="screenshot1" src="https://github.com/user-attachments/assets/83e23b6e-e63f-46b7-b022-166b2c9bc584" />
+<img width="600" height="868" alt="screenshot2" src="https://github.com/user-attachments/assets/bbfe59da-d5dd-48e5-9de2-e7a7ddab50dd" />
 
 ---
 
