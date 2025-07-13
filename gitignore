@@ -1,0 +1,15 @@
+# Ignore Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore data files
+*.pkl
+*.csv
+*.log
+
+# Ignore OS/system files
+.DS_Store
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
